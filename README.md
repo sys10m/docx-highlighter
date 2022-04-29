@@ -8,5 +8,5 @@
 ### Package
 pyinstaller ⇒ can be installed via `pip install pyinstaller`
 ### Command
-  __Windows__
+  __Windows__\
     `python -m PyInstaller --onefile --collect-all tkinter --collect-all tkinterdnd2 --hidden-import tkinter --hidden-import tkinterdnd2 --noconsole --name "Document Highlighter" Document-Highlighter.py`
