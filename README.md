@@ -1,4 +1,6 @@
 # docx-highlighter
+  ## Installation
+  Download [executable file](https://github.com/sys10m/docx-highlighter/blob/main/Document%20Highlighter.exe) and you are ready to go.
   ## How to use
   ![!](https://github.com/sys10m/docx-highlighter/blob/main/dump-Files/GUI_Image.png)
   1. Drag and drop the file to the file listing area in the program.
