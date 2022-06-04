@@ -15,8 +15,8 @@
   
 ### Generating a new highlighted file
   
-[code](https://github.com/sys10m/docx-highlighter/blob/main/dump-Files/genHighlightedFile.py)
- The program goes through all the runs, a unit of text in the document, and append the run with the same run attributes into the new document if there is no keyword inside. If there is the keyword inside the run, the program will split it into three part (before the keyword, the keyword, after the keyword).
+[code](https://github.com/sys10m/docx-highlighter/blob/main/dump-Files/genHighlightedFile.py)\
+ The program goes through all the runs, a unit of text in the document, and append the run with the same attributes into the new document if there is no keyword inside. If there is the keyword inside the run, the program will split it into three part (before the keyword, the keyword, after the keyword), append each of them with the same attriburtes with the original run into the new document, and change the highlight of the keyword run to be yellow.
     
 ### Convert to executable (.exe) <add problem with tkinter and tkinterdnd2 package imports>
   
